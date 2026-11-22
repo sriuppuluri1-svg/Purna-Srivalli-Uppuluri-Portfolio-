@@ -1,0 +1,30 @@
+[
+  {
+    "name": "STEPCONE 2025 Website",
+    "desc": "A website of the clg event STEPCONE. Built using HTML, CSS, JavaScript and Bootstrap.",
+    "image": "stepcone",
+    "category": "UI Design",
+    "links": {
+      "view": "https://gmrit.edu.in/stepcone/"
+    }
+  },
+  {
+    "name": "TREKHIVE Website",
+    "desc": "The website UI for TREKHIVE - a travelling a website, built using HTML, CSS, JavaScript",
+    "image": "trekhive",
+    "category": "UI Design",
+    "links": {
+      "view": "https://trekhivesite.netlify.app/"
+    }
+  },
+
+  {
+    "name": "CPGA calculator",
+    "desc": "A simple web-based tool for calculating CGPA. Built using HTML, CSS, and JavaScript.",
+    "image": "cpga",
+    "category": "UI Design",
+    "links": {
+      "view": "https://cpgacalcim24.netlify.app/"
+    }
+  }
+]
