@@ -16,6 +16,6 @@ Welcome to the official source code of **Uppuluri Purna Srivalli's Portfolio Web
 ├── assets/
 │   ├── css/
 │   │   └── style.css         # Main stylesheet
-│   ├── images/               # Hero, education, icons, etc.
+│   ├── images/               # education, icons, etc.
 │   └── js/
 │       └── script.js         # Custom scripts (optional)
